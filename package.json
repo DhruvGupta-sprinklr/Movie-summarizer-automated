@@ -1,0 +1,20 @@
+{
+  "name": "movie-summarizer-automated",
+  "version": "1.0.0",
+  "main": "agent.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.57",
+    "@langchain/google-genai": "^0.2.10",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.27",
+    "zod": "^3.25.41"
+  }
+}
